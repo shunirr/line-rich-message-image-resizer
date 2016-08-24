@@ -26,5 +26,5 @@ For example,
 
 ## License
 
-[MIT License](https://github.com/shunirr/line-rich-message-test/blob/master/LICENSE.txt)
+[MIT License](https://github.com/shunirr/line-rich-message-image-resizer/blob/master/LICENSE.txt)
 
